@@ -1,4 +1,4 @@
-bmcgehee/tomcat-war-docker22:
+raghavendram31289/tomcat-war-docker:
 
   Env:
     # Set the below enviornment variables for your environment
@@ -47,4 +47,4 @@ bmcgehee/tomcat-war-docker22:
     - "true"
     ### End Docker Exec Commands ###
 
-     
+
